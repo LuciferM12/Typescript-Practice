@@ -3,4 +3,4 @@ function greet(person = 'Annonymous') {
 }
 
 const results = greet();
-console.log(res);
+console.log(results);
